@@ -1,0 +1,3 @@
+Atenção! Sensor 5 está com temperatura de 30°C, acima do limite seguro.
+Atenção! Sensor 7 está com temperatura de 29°C, acima do limite seguro.
+Atenção! Sensor 8 está com temperatura de 31°C, acima do limite seguro.
